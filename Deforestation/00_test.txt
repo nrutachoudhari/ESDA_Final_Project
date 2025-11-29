@@ -1,1 +1,12 @@
-text placeholder for structure
+File descriptions for MODIS:
+
+1. LC_Type1
+- Values 1–17 represent IGBP land-cover classes
+- This is where you will extract forest vs non-forest
+- This is what your entire deforestation analysis is built on
+- Needed for the analysis
+
+2. QC
+- It tells you whether each pixel is “good quality”
+- Not needed for the project
+- Needed if want to do advanced quality analysis
